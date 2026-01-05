@@ -1,0 +1,11 @@
+product_id,category,name,unit_price,avg_cogs,active_since
+P001,Beverage,Organic Green Tea,18.99,8.5,2021-03-01
+P002,Beverage,Herbal Wellness Blend,22.99,10.2,2021-06-15
+P003,Snack,Superfood Energy Bars,24.99,12.0,2021-01-10
+P004,Snack,Organic Trail Mix,15.99,7.8,2021-08-01
+P005,Supplement,Vitamin D3 Gummies,29.99,14.5,2022-01-01
+P006,Supplement,Probiotic Blend,34.99,16.8,2022-03-15
+P007,Personal Care,Natural Face Serum,39.99,18.0,2022-06-01
+P008,Personal Care,Organic Body Lotion,26.99,12.5,2022-08-10
+P009,Beverage,Detox Tea Collection,32.99,15.0,2023-01-05
+P010,Snack,Keto-Friendly Crackers,19.99,9.5,2023-04-20
